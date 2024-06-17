@@ -21,15 +21,18 @@ namespace GraphicsEditor
             splitContainer2.Panel1.VerticalScroll.Value = 0;
             splitContainer2.Panel1.HorizontalScroll.Value = 0;
             int x, y;
-            if (splitContainer2.Panel1.Width > pictureBox.Width) x = (splitContainer2.Panel1.Width - pictureBox.Width) / 2;
+            if (splitContainer2.Panel1.Width > pictureBox.Width)
+                x = (splitContainer2.Panel1.Width - pictureBox.Width) / 2;
             else x = 0;
-            if (splitContainer2.Panel1.Height > pictureBox.Height) y = (splitContainer2.Panel1.Height - pictureBox.Height) / 2;
+            if (splitContainer2.Panel1.Height > pictureBox.Height)
+                y = (splitContainer2.Panel1.Height - pictureBox.Height) / 2;
             else y = 0;
             pictureBox.Location = new Point(x, y);
             brushSizeTextBox.Select();
             splitContainer2.Panel1.HorizontalScroll.Value =
                 (int)(scrollXRatio * splitContainer2.Panel1.HorizontalScroll.Maximum);
-            splitContainer2.Panel1.VerticalScroll.Value = (int)(scrollYRatio * splitContainer2.Panel1.VerticalScroll.Maximum);
+            splitContainer2.Panel1.VerticalScroll.Value =
+                (int)(scrollYRatio * splitContainer2.Panel1.VerticalScroll.Maximum);
             splitContainer2.PerformLayout();
         }
 

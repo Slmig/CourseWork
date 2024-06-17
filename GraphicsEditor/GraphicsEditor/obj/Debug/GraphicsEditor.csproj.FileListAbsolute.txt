@@ -40,3 +40,14 @@ D:\GraphicsEditor\GraphicsEditor\GraphicsEditor\GraphicsEditor\bin\Debug\Graphic
 D:\GraphicsEditor\GraphicsEditor\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.pdb
 D:\GraphicsEditor\GraphicsEditor\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.CanvasResizeDialog.resources
 C:\Users\Greg\Desktop\GraphicsEditorRepo\GraphicsEditor\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.CanvasResizeDialog.resources
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.exe.config
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.exe
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.pdb
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.csproj.AssemblyReference.cache
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.CanvasResizeDialog.resources
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.MainForm.resources
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.Properties.Resources.resources
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.csproj.GenerateResource.cache
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.exe
+C:\Users\Greg\Desktop\CourseWork\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.pdb

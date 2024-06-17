@@ -25,10 +25,13 @@ namespace GraphicsEditor
         private AreaType areaType = AreaType.None;
         private const int deltaSide = 2;
 
-        public SelectionRectTool(Canvas canvas, Bitmap display, Brush brush, Bitmap image = null) : base(canvas, display, brush)
+        public SelectionRectTool(Canvas canvas, Bitmap display, Brush brush, Bitmap image = null)
+            : base(canvas, display, brush)
         {
             if (image != null)
             {
+                HistoryController.ClearRedoStates();
+                HistoryController.PushUndoState(Canvas.ActiveLayer);
                 this.image = image;
                 points.Add(new Point(0, 0));
                 int width, height;
@@ -83,7 +86,8 @@ namespace GraphicsEditor
                         var width = Math.Abs(points[0].X - points[1].X) + 1;
                         var height = Math.Abs(points[0].Y - points[1].Y) + 1;
                         int scaledX = 0, scaledY = 0, scaledWidth = 0, scaledHeight = 0;
-                        GraphicsMethods.SetRectParams(Math.Min(points[0].X, points[1].X), Math.Min(points[0].Y, points[1].Y),
+                        GraphicsMethods.SetRectParams(Math.Min(points[0].X, points[1].X),
+                            Math.Min(points[0].Y, points[1].Y),
                             width, height, widthRatio, heightRatio, ref scaledX, ref scaledY, ref scaledWidth,
                             ref scaledHeight);
                         var appliedImage = new Bitmap(scaledWidth, scaledHeight);
@@ -101,16 +105,19 @@ namespace GraphicsEditor
 
                         using (var graphics = Graphics.FromImage(saveImage))
                         {
-                            graphics.DrawImage(display, 0, 0, new Rectangle(scaledX, scaledY, scaledWidth, scaledHeight),
+                            graphics.DrawImage(display, 0, 0,
+                                new Rectangle(scaledX, scaledY, scaledWidth, scaledHeight),
                                 GraphicsUnit.Pixel);
                         }
 
                         using (var graphics = Graphics.FromImage(display))
                         {
-                            graphics.DrawImage(appliedImage, scaledX, scaledY, new Rectangle(0, 0, scaledWidth, scaledHeight),
+                            graphics.DrawImage(appliedImage, scaledX, scaledY,
+                                new Rectangle(0, 0, scaledWidth, scaledHeight),
                                 GraphicsUnit.Pixel);
                             MainForm.ImageRefresh();
-                            graphics.DrawImage(saveImage, scaledX, scaledY, new Rectangle(0, 0, scaledWidth, scaledHeight),
+                            graphics.DrawImage(saveImage, scaledX, scaledY,
+                                new Rectangle(0, 0, scaledWidth, scaledHeight),
                                 GraphicsUnit.Pixel);
                         }
                     }
@@ -126,6 +133,8 @@ namespace GraphicsEditor
                     var width = points[1].X - points[0].X + 1;
                     var height = points[1].Y - points[0].Y + 1;
                     image = Canvas.ActiveLayer.Image.Crop(points[0].X, points[0].Y, width, height);
+                    HistoryController.ClearRedoStates();
+                    HistoryController.PushUndoState(Canvas.ActiveLayer);
                     eraseRect(points[0].X, points[0].Y, width, height);
                     MainForm.ImageRedraw();
                     insertImage(image.Width, image.Height, widthRatio, heightRatio);
@@ -253,7 +262,8 @@ namespace GraphicsEditor
             else scaledImage = image.NearestNeighbour(width, height);
             using (var graphics = Graphics.FromImage(scaledImage))
             {
-                graphics.DrawImage(Canvas.Foreground, 0, 0, new Rectangle(points[0].X, points[0].Y, width, height), GraphicsUnit.Pixel);
+                graphics.DrawImage(Canvas.Foreground, 0, 0, new Rectangle(points[0].X, points[0].Y, width, height),
+                    GraphicsUnit.Pixel);
             }
 
             int scaledX = 0, scaledY = 0, scaledWidth = 0, scaledHeight = 0;
