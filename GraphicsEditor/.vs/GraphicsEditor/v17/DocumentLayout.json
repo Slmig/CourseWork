@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\graphicseditor\\tools\\selectionrecttool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\tools\\selectionrecttool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|c:\\users\\greg\\desktop\\coursework\\graphicseditor\\graphicseditor\\mainform\\mainformundoredo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\graphicseditor\\mainform\\mainformundoredo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformundoredo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\graphicseditor\\mainform\\mainformpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\graphicseditor\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\graphicseditor\\mainform\\mainformtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\graphicseditor\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|c:\\users\\greg\\desktop\\coursework\\graphicseditor\\graphicseditor\\tools\\selectionrecttool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\tools\\selectionrecttool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\graphicseditor\\mainform\\mainformpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\graphicseditor\\graphicsmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -179,7 +179,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -231,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainFormPictureBox.cs",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormPictureBox.cs",
               "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormPictureBox.cs",
@@ -239,18 +239,17 @@
               "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormPictureBox.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAQwEAAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:13:01.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T07:13:01.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SelectionRectTool.cs",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\GraphicsEditor\\Tools\\SelectionRectTool.cs",
               "RelativeDocumentMoniker": "GraphicsEditor\\Tools\\SelectionRectTool.cs",
               "ToolTip": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\GraphicsEditor\\Tools\\SelectionRectTool.cs",
               "RelativeToolTip": "GraphicsEditor\\Tools\\SelectionRectTool.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAkwD0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T19:14:00.887Z",
               "EditorCaption": ""
@@ -265,38 +264,37 @@
               "RelativeToolTip": "GraphicsEditor\\GraphicsMethods.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAKoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:52:15.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T18:52:15.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HistoryController.cs",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\GraphicsEditor\\HistoryController.cs",
               "RelativeDocumentMoniker": "GraphicsEditor\\HistoryController.cs",
               "ToolTip": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\GraphicsEditor\\HistoryController.cs",
               "RelativeToolTip": "GraphicsEditor\\HistoryController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAwAAAAzAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T10:51:39.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainFormUndoRedo.cs",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormUndoRedo.cs",
               "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormUndoRedo.cs",
               "ToolTip": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormUndoRedo.cs",
               "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormUndoRedo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T07:44:34.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainFormTools.cs",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormTools.cs",
               "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormTools.cs",
@@ -317,8 +315,7 @@
               "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormFileMenu.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAgwF0AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:43:19.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T07:43:19.831Z"
             },
             {
               "$type": "Document",
@@ -376,8 +373,7 @@
               "ToolTip": "C:\\Users\\Greg\\Desktop\\CourseWork\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormPictureBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormPictureBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:22:16.184Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-06-12T07:22:16.184Z"
             },
             {
               "$type": "Document",

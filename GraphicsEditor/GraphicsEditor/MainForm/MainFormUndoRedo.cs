@@ -9,7 +9,8 @@ namespace GraphicsEditor
             if (animPlaying) return;
             if (HistoryController.UndoAvailable)
             {
-                toolsController.Tool?.Apply();
+                if (toolsController.SelectedTool == ToolsController.ToolType.SelectionRect)
+                    toolsController.Tool?.Apply();
                 var layer = HistoryController.GetNextUndoLayer();
                 framesController.SetPointer(layer);
                 SelectRow(framesGrid, framesController.CurrentFrameIndex);
