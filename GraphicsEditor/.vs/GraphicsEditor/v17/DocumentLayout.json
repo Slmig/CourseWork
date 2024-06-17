@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformundoredo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformundoredo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|c:\\users\\greg\\desktop\\graphicseditorrepo\\graphicseditor\\graphicseditor\\graphicseditor\\mainform\\mainformscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\canvasresizedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\canvasresizedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformcanvasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformcanvasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|c:\\users\\greg\\desktop\\graphicseditorrepo\\graphicseditor\\graphicseditor\\graphicseditor\\mainform\\mainformcanvasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformcanvasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\bitmapextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\bitmapextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|c:\\users\\greg\\desktop\\graphicseditorrepo\\graphicseditor\\graphicseditor\\graphicseditor\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\tools\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\tools\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\toolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\toolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformfilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformfilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\tools\\penciltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\tools\\penciltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\framescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\framescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformlayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformlayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformframes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformframes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\tools\\selectionrecttool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\tools\\selectionrecttool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformbrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformbrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\graphicsmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\graphicsmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\tools\\filltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\tools\\filltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform\\mainformlayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform\\mainformlayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\tools\\pipettool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\tools\\pipettool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\canvasresizedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\canvasresizedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\tools\\erasertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\tools\\erasertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GraphicsEditor||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\PipetTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphicsEditor\\PipetTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\brush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\brush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphicsEditor\\Tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\SelectionRectTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphicsEditor\\SelectionRectTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\EraserTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphicsEditor\\EraserTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\graphicseditor\\mousecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3557E3-3F54-4EB7-B95C-E1C6CF823A8A}|GraphicsEditor\\GraphicsEditor.csproj|solutionrelative:graphicseditor\\mousecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\ToolController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\FrameController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ToolController.cs",
+              "DocumentMoniker": "D:\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\ToolController.cs",
+              "ToolTip": "D:\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\ToolController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:44:41.071Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Canvas.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Canvas.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Canvas.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Canvas.cs",
+              "RelativeToolTip": "GraphicsEditor\\Canvas.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAUwGEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:38:07.124Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GraphicsEditor\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:27:09.244Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainFormScale.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormScale.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormScale.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormScale.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormScale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:23:32.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainFormTools.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormTools.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormTools.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormTools.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormTools.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:59:29.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\HistoryController.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\HistoryController.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\HistoryController.cs",
+              "RelativeToolTip": "GraphicsEditor\\HistoryController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAuwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:51:39.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainFormCanvasMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormCanvasMenu.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormCanvasMenu.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormCanvasMenu.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormCanvasMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:05:54.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanvasResizeDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\CanvasResizeDialog.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\CanvasResizeDialog.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\CanvasResizeDialog.cs",
+              "RelativeToolTip": "GraphicsEditor\\CanvasResizeDialog.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:26:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainFormUndoRedo.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormUndoRedo.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormUndoRedo.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormUndoRedo.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormUndoRedo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:44:34.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainFormCanvasMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormCanvasMenu.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormCanvasMenu.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormCanvasMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormCanvasMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:20:55.458Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainFormPictureBox.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormPictureBox.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormPictureBox.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormPictureBox.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormPictureBox.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:13:01.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainFormPictureBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormPictureBox.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormPictureBox.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormPictureBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormPictureBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:22:16.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BitmapExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\BitmapExtensions.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\BitmapExtensions.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\BitmapExtensions.cs",
+              "RelativeToolTip": "GraphicsEditor\\BitmapExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:19:09.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwC8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:54:12.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainFormFileMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormFileMenu.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormFileMenu.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormFileMenu.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormFileMenu.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwF0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:43:19.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainFormBrush.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormBrush.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormBrush.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormBrush.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormBrush.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:46:07.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToolsController.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\ToolsController.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\ToolsController.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\ToolsController.cs",
+              "RelativeToolTip": "GraphicsEditor\\ToolsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:47:47.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FramesController.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\FramesController.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\FramesController.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\FramesController.cs",
+              "RelativeToolTip": "GraphicsEditor\\FramesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:45:26.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainFormFrames.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormFrames.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormFrames.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormFrames.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormFrames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:49:04.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainFormLayers.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormLayers.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormLayers.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormLayers.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormLayers.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:48:04.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainFormLayers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormLayers.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm\\MainFormLayers.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm\\MainFormLayers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GraphicsEditor\\MainForm\\MainFormLayers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:48:03.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Program.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Program.cs",
+              "RelativeToolTip": "GraphicsEditor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:44:23.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrameController.cs",
+              "DocumentMoniker": "D:\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\FrameController.cs",
+              "ToolTip": "D:\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\FrameController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:14:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GraphicsEditor",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor.csproj",
+              "RelativeDocumentMoniker": "GraphicsEditor\\GraphicsEditor.csproj",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor.csproj",
+              "RelativeToolTip": "GraphicsEditor\\GraphicsEditor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-24T19:26:11.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SelectionRectTool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\SelectionRectTool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Tools\\SelectionRectTool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\SelectionRectTool.cs",
+              "RelativeToolTip": "GraphicsEditor\\Tools\\SelectionRectTool.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAowFEBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:14:00.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EraserTool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\EraserTool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Tools\\EraserTool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\EraserTool.cs",
+              "RelativeToolTip": "GraphicsEditor\\Tools\\EraserTool.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwFEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:13:22.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CanvasResizeDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\CanvasResizeDialog.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\CanvasResizeDialog.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\CanvasResizeDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GraphicsEditor\\CanvasResizeDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:19:25.003Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PipetTool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\PipetTool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Tools\\PipetTool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\PipetTool.cs",
+              "RelativeToolTip": "GraphicsEditor\\Tools\\PipetTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:13:59.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FillTool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\FillTool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Tools\\FillTool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\FillTool.cs",
+              "RelativeToolTip": "GraphicsEditor\\Tools\\FillTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:29:55.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\Tool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Tools\\Tool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\Tool.cs",
+              "RelativeToolTip": "GraphicsEditor\\Tools\\Tool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:14:01.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GraphicsMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsMethods.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\GraphicsMethods.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\GraphicsMethods.cs",
+              "RelativeToolTip": "GraphicsEditor\\GraphicsMethods.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAKoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:52:15.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PencilTool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\PencilTool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Tools\\PencilTool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tools\\PencilTool.cs",
+              "RelativeToolTip": "GraphicsEditor\\Tools\\PencilTool.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAADwv1YAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:48:41.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm.Designer.cs",
+              "RelativeToolTip": "GraphicsEditor\\MainForm.Designer.cs",
+              "ViewState": "AQIAABsEAAAAAAAAAAAUwC4EAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:15:07.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Layer.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Layer.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Layer.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Layer.cs",
+              "RelativeToolTip": "GraphicsEditor\\Layer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:31:55.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SelectionRectTool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\SelectionRectTool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\SelectionRectTool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\SelectionRectTool.cs",
+              "RelativeToolTip": "GraphicsEditor\\SelectionRectTool.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:05:58.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Project.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Project.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Project.cs",
+              "RelativeToolTip": "GraphicsEditor\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:35:19.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EraserTool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\EraserTool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\EraserTool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\EraserTool.cs",
+              "RelativeToolTip": "GraphicsEditor\\EraserTool.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:53:59.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PipetTool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\PipetTool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\PipetTool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\PipetTool.cs",
+              "RelativeToolTip": "GraphicsEditor\\PipetTool.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:02:36.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tool.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Tool.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Tool.cs",
+              "RelativeToolTip": "GraphicsEditor\\Tool.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:55:25.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\App.config",
+              "RelativeDocumentMoniker": "GraphicsEditor\\App.config",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\App.config",
+              "RelativeToolTip": "GraphicsEditor\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T09:08:14.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MouseContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MouseContainer.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MouseContainer.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MouseContainer.cs",
+              "RelativeToolTip": "GraphicsEditor\\MouseContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:54:12.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\FileManager.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\FileManager.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\FileManager.cs",
+              "RelativeToolTip": "GraphicsEditor\\FileManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAjwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:51:22.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Brush.cs",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Brush.cs",
+              "RelativeDocumentMoniker": "GraphicsEditor\\Brush.cs",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\Brush.cs",
+              "RelativeToolTip": "GraphicsEditor\\Brush.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:39:08.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm.resx",
+              "RelativeDocumentMoniker": "GraphicsEditor\\MainForm.resx",
+              "ToolTip": "C:\\Users\\Greg\\Desktop\\GraphicsEditorRepo\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor\\MainForm.resx",
+              "RelativeToolTip": "GraphicsEditor\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-24T11:17:51.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
